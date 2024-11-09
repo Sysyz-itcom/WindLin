@@ -22,10 +22,10 @@ export default defineConfig({
       {
         text: "项目",
         items: [
-          { text: '浏览器插件', link: '/markdown-examples' },
-          { text: 'JS 网页组件', link: '/markdown-examples' },
-          { text: '软件服务', link: '/markdown-examples' },
-          { text: '浏览器起始页', link: '/markdown-examples' },
+          { text: '浏览器插件', link: '/projects/addons' },
+          { text: 'JS 网页组件', link: '/projects/webjs' },
+          { text: '软件服务', link: '' },
+          { text: '浏览器起始页', link: '/' },
         ],
       },
       {
