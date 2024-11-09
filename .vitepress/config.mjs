@@ -25,7 +25,7 @@ export default defineConfig({
           { text: '浏览器插件', link: '/projects/addons' },
           { text: 'JS 网页组件', link: '/projects/webjs' },
           { text: '软件服务', link: '/projects/software' },
-          { text: '浏览器起始页', link: '/projects/startpage },
+          { text: '浏览器起始页', link: '/projects/startpage' },
         ],
       },
       {
