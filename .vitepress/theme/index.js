@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
+import "./style/blur.css";
 
 /** @type {import('vitepress').Theme} */
 export default {
