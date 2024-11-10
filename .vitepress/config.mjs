@@ -13,7 +13,7 @@ export default defineConfig({
     logo: "https://sysyz-itcom.github.io/doc/img/windlin.png",
     // 页脚
     footer: {
-      copyright: 'Copyright © 2024 WindLin'
+      copyright: 'Copyright © 2024 WindLin Studio'
     },
 
     // 导航栏
