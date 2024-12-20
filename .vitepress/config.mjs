@@ -26,11 +26,8 @@ export default defineConfig({
           { text: 'JS 网页组件', link: '/projects/webjs' },
           { text: '软件服务', link: '/projects/software' },
           { text: '浏览器起始页', link: '/projects/startpage' },
-<<<<<<< HEAD
-=======
           { text: 'H5 工具箱', link: '/projects/h5tools' },
           { text: 'ReadTable', link: '/projects/readtable/readtable' },
->>>>>>> 64928c2fbb0458239c717c6b887d36a7cbb2671d
         ],
       },
       {
