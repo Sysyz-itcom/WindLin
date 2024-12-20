@@ -1,5 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+# <meta name="msvalidate.01" content="80BA7734EE4715D25FA9D99316C0CCD0" />
+
 layout: home
 
 hero:
