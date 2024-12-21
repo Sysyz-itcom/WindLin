@@ -32,15 +32,9 @@
 【解决方法】老师直播时需要共享屏幕而不是窗口＞先进入希沃白板授课端，再选择共享授课窗口＞直播时，可以动态切换窗口
 :::
 
-::: details
-【问题原因】
-
-【解决方法】
-:::
-
 ## 异常处理
 
-### 安装与卸载
+### 【安装与卸载】
 
 #### 1. 安装时提示：NSIS Error
 【问题原因】
@@ -85,7 +79,7 @@ Windows 系统更新被禁用，系统补丁无法安装。
 - 到[官网](https://easinote.seewo.com)下载最新版软件。
 - 安装最新版本后再卸载
 
-### 启动问题
+### 【启动问题】
 
 #### 1. Runtime Error R6025
 【问题原因】系统中的 VC++ 环境已被破坏，通常是由于第三方软件（如影子系统）所致。
@@ -136,7 +130,7 @@ Windows 系统更新被禁用，系统补丁无法安装。
 - 请下载 DirectX 修复工具：https://drive.cvte.com/p/DdZLD-8Q_KYCGO7SDA
 - 一些关键的系统文件被阉割，或被某些软件篡改时，以上方法可能无效。
 
-### 基础模块
+### 【基础模块问题】
 
 #### 1. 界面上部分文字显示成方框“□□□□”
 【问题原因】系统字体损坏；系统字体回退组件损坏
@@ -154,7 +148,7 @@ Windows 系统更新被禁用，系统补丁无法安装。
 
 【解决方法】正常关闭该窗口，不用任何处理。如果重新打开视频仍然有此问题，请重启计算机。
 
-### 网络问题
+### 【网络问题】
 
 #### 1. CertDateInvalid
 【问题原因】电脑日期或时间与现实时间不一致，导致证书验证出错。
@@ -176,7 +170,7 @@ https://drive.cvte.com/p/DeuevW4Q_KYCGKPWICAA
 
 【解决方法】退出希沃白板，下载并安装 [EnableFipsAlgorithmPolicy.zip](https://cstore-public.seewo.com/faq-service/b94b57d61017485793e57772a0efdd0b?Expires=2046524380&OSSAccessKeyId=LTAI5tADcifUwRKSQup5hCqh&Signature=DeyOLKWz1o53I2BtbvYNCh9%2BACI%3D&response-content-disposition=attachment%3Bfilename%3D%22EnableFipsAlgorithmPolicy.zip%22%3Bfilename%2A%3Dutf-8%27%27EnableFipsAlgorithmPolicy.zip)，解压，双击运行，运行结束后重启希沃白板。
 
-### 投屏问题
+### 【投屏问题】
 
 #### 1. 首次投屏/摄像直播提示"电脑端正在部署环境，请完成后重试"
 【问题原因】之前未使用过投屏的大板，第一次使用会先安装投屏服务的应用程序。

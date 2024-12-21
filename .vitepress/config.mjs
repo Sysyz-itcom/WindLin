@@ -16,6 +16,12 @@ export default defineConfig({
       copyright: 'Copyright © 2024 WindLin Studio'
     },
 
+    // 深色模式
+    darkModeSwitchLabel: '深色模式',
+
+    // Return to top
+    returnToTopLabel: "返回顶部",
+
     // 导航栏
     nav: [
       { text: '首页', link: '/' },
@@ -28,12 +34,7 @@ export default defineConfig({
           { text: '浏览器起始页', link: '/projects/startpage' },
           { text: 'H5 工具箱', link: '/projects/h5tools' },
           { text: 'ReadTable', link: '/projects/readtable/readtable' },
-        ],
-      },
-      {
-        text: "文档",
-        items: [
-          { text: '希沃白板故障排查', link: '/docs/seewo/Easinote' },
+          { text: '一中校园信息技术协助', link: '/projects/school/index' },
         ],
       },
       {

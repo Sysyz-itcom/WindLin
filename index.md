@@ -1,6 +1,5 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-# <meta name="msvalidate.01" content="80BA7734EE4715D25FA9D99316C0CCD0" />
 
 layout: home
 
@@ -8,6 +7,9 @@ hero:
   name: "WindLin Studio"
   text: ""
   tagline: 长河饮马，此意悠悠。
+  image: 
+    src: https://sysyz-itcom.github.io/doc/img/windlin-index.png
+    alt: WindLin Studio
   actions:
     - theme: brand
       text: 社团官网
