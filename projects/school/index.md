@@ -15,3 +15,11 @@
 
 [禁用一体机额外的网络服务](/projects/school/hot-spot)
 :::
+
+::: info WindLin Studio
+更多文档编写中，感谢您的支持。
+- 学校支持
+  - [陈其美](mailto:kymay@qq.com)
+- 社团支持
+  - [yizhixianyuuuu](mailto:yizhixianyuuuu@gmail.com)
+:::
