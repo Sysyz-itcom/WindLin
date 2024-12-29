@@ -35,6 +35,7 @@ export default defineConfig({
           { text: 'H5 工具箱', link: '/projects/h5tools' },
           { text: 'ReadTable', link: '/projects/readtable/readtable' },
           { text: '一中校园信息技术协助', link: '/projects/school/index' },
+          { text: '一中校园GIS地图系统', link: '/projects/school/sysyz-gis' },
         ],
       },
       {
