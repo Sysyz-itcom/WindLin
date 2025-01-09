@@ -1,7 +1,11 @@
 # G2320 课件下载站
 
 ::: tip WindLin 服务中心提示
-下载链接：https://share.feijipan.com/s/g0C5775p
+下载链接：https://share.feijipan.com/s/N4E8pgHS
+:::
+
+::: warning 
+链接被频繁举报，这只是课件，不要再举报啦！！！
 :::
 
 ## 更新日志
