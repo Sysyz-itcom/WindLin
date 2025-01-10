@@ -1,11 +1,24 @@
 # G2320 课件下载站
 
-::: tip WindLin 服务中心提示
-下载链接：https://share.feijipan.com/s/N4E8pgHS
+::: tip 提示
+为了更好的体验，请先点击 QQ 右上角菜单，选择 "使用浏览器打开"
 :::
 
-::: warning 
-链接被频繁举报，这只是课件，不要再举报啦！！！
+::: info 节点列表
+|序号|节点地址|状态|
+|:---:|:---:|:---:|
+|节点一|g0C5775p|<Badge type="danger" text="✕" />|
+|节点二|[N4E8pgHS](https://share.feijipan.com/s/N4E8pgHS)|<Badge type="info" text="✓" />|
+|百度云|URL404|<Badge type="danger" text="✕" />|
+|123云|已停用|<Badge type="danger" text="✕" />|
+|迅雷云|已停用|<Badge type="danger" text="✕" />|
+:::
+
+
+::: warning 注意
+- 多个节点被频繁举报，请一定要先查看链接是否可用！！！
+- 迅雷云盘链接已在 `2024-12-01` 关闭，节点不再可用。
+- 123云盘链接已在 `2024-11-15` 关闭，节点不再可用。
 :::
 
 ## 更新日志
