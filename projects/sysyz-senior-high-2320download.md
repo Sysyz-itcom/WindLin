@@ -8,7 +8,7 @@
 |序号|节点地址|状态|
 |:---:|:---:|:---:|
 |节点一|g0C5775p|<Badge type="danger" text="✕" />|
-|节点二|[N4E8pgHS](https://share.feijipan.com/s/N4E8pgHS)|<Badge type="info" text="✓" />|
+|节点二|[N4E8pgHS](https://share.feijipan.com/s/N4E8pgHS)|提取码：20ka|
 |百度云|URL404|<Badge type="danger" text="✕" />|
 |123云|已停用|<Badge type="danger" text="✕" />|
 |迅雷云|已停用|<Badge type="danger" text="✕" />|
